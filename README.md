@@ -165,14 +165,5 @@ You can add photos of:
 
 ---
 
-## Author
-
-**Abhi**
-
-B.Tech - Electronics and Communication Engineering
-
-Andhra University
-
----
 
 If you found this project useful, feel free to fork it, improve it, or use it for your own learning.
